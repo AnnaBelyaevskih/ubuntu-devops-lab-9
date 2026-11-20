@@ -12,7 +12,6 @@
   - `redis.yml` — Deployment для Redis.
   - `redis-service.yml` — Service для Redis.
 - `screenshots/` — скриншоты этапов работы.
-- `README.md` — отчёт о работе.
 
 ## Ход выполнения работы
 
